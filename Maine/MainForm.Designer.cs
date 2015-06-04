@@ -76,7 +76,7 @@
             // pbox
             // 
             this.pbox.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.pbox.Location = new System.Drawing.Point(10, 10);
+            this.pbox.Location = new System.Drawing.Point(10, 12);
             this.pbox.Name = "pbox";
             this.pbox.Size = new System.Drawing.Size(1200, 600);
             this.pbox.TabIndex = 2;
